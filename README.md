@@ -20,8 +20,8 @@ It provides a complete backend for a grocery store, allowing management of items
 ## How to Run the Project
 
 1. **Clone the repository:**
-  git clone https://github.com/snehaaa2703/grocery-delivery-app.git
-  cd grocery-delivery-app
+ git clone https://github.com/snehaaa2703/grocery-delivery-app.git
+ cd grocery-delivery-app
 
 2.**Install dependencies:**
 
